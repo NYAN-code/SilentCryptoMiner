@@ -1,3 +1,29 @@
+Main Features
+------------------------------------------------------
+● CPU Mining
+
+● GPU Mining
+
+● bypassUAC
+
+● disableDefenderNotifications
+
+● Hide from TaskManager
+
+● Anti-Sandbox
+
+● Debug
+
+● Watchdog
+
+● Mutex Generation
+
+
+![imagen](https://user-images.githubusercontent.com/124467338/216824842-c4d42c5a-64ce-4020-ae7f-8864078572a7.png)
+
+
+
+
 LEGAL DISCLAIMER PLEASE READ!
 
 I, the creator and all those associated with the development and production of this program 
